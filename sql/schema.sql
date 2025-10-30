@@ -1,0 +1,1 @@
+﻿-- Arquivo de definição de schema\n-- Adicione suas instruções CREATE TABLE aqui
