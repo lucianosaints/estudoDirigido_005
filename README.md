@@ -116,7 +116,7 @@ SELECT * FROM usuarios;
 **Autor:** *Luciano_santos*  
 **Disciplina:** Engenharia de Dados / Banco de Dados  
 **Instituição:** *Curso_BFD_polo_itaipuaçu_maricá*  
-**Ferramentas:** DBeaver, MySQL, Draw.io
+**Ferramentas:** DBeaver,PostgreSQL, Draw.io
 
 ---
 
